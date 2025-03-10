@@ -1,0 +1,13 @@
+.audio-player {
+    background-color: rgb(40, 40, 40);
+}
+.rhap_time,
+.rhap_current-time,
+.rhap_total-time {
+    color: white;
+}
+.rhap_container {
+    background-color: rgb(40, 40, 40);
+    color: white;
+    width: 100%;
+}

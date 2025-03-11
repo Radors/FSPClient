@@ -27,21 +27,3 @@ body {
     min-width: 320px;
     min-height: 100vh;
 }
-button {
-    border-radius: 16px;
-    padding: 8px;
-    border: none;
-    font-family: inherit;
-    cursor: pointer;
-    outline: 1px solid transparent;
-    transition: outline-color .15s;
-    color: black;
-}
-button:hover,
-button:focus-visible {
-    outline: 2px solid #535bf2;
-}
-button::-moz-focus-inner {
-    border: 0;
-    padding: 0;
-}

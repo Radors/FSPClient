@@ -2,7 +2,7 @@ export default function TopBar() {
 
 
     return (
-        <div className="stylized-name">Sam Raddan</div>
+        <div className="stylized-name">SAM RADDAN</div>
 
     )
 }

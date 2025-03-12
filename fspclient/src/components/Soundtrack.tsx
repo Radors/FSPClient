@@ -7,10 +7,10 @@ export default function Soundtrack({ title, image, audio, reference, pauseOthers
 
     return (
         <div className="soundtrack">
-            <img className="soundtrack-image" src={`/public/images/${image}`} />
+            <img className="soundtrack-image" src={`/images/${image}`} />
             <div>{title}</div>
             <AudioPlayer className="audio-player"
-                src={`/public/audio/${audio}`}
+                src={`/audio/${audio}`}
                 showJumpControls={false}
                 ref={reference}
                 onPlay={() => pauseOthers(reference) }

@@ -14,7 +14,7 @@ body {
 }
 @font-face {
     font-family: "Montserrat";
-    src: url("/src/assets/fonts/Montserrat.woff2") format("woff2");
+    src: url("/fonts/Montserrat.woff2") format("woff2");
     font-weight: 300;
     font-style: normal;
 }

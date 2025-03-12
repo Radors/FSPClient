@@ -1,4 +1,4 @@
-import { useState, useRef } from "react" 
+import { useRef } from "react" 
 import "./css/App.css"
 import TopBar from "./components/TopBar"
 import Soundtrack from "./components/Soundtrack"

@@ -25,7 +25,6 @@ function App() {
                 <TopBar />
                 <Soundtrack title={"No. 8 - Form"} image={"form.png"} audio={"form.mp3"} reference={ref1} pauseOthers={OnPauseOthers} />
                 <Soundtrack title={"No. 11 - Stray"} image={"stray.png"} audio={"stray.mp3"} reference={ref3} pauseOthers={OnPauseOthers} />
-                <Soundtrack title={"No. 14 - Reign"} image={"reign.png"} audio={"reign.mp3"} reference={ref2} pauseOthers={OnPauseOthers} />
             </div>
         </div>
     )
